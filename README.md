@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there I'm Jose Martinez and I'm a web developer 👋
 
-<!--
-**Jose26362780/Jose26362780** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me 🧑‍💻
+I am a Software Engineering student, focused on web development,and I study at [rocketseat](https://app.rocketseat.com.br/)
 
-Here are some ideas to get you started:
+### 💪🏻 Current stack 🗃️🧐 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💡 Main language : `Javascript`
+- 📡 Backend: `Nodejs`
+- 👓 Frontend: `Reactjs`, `HTML5`, `CSS3`, `Javascript`
+- 🎨 Layout Design: `Figma`
+- 📚 Version Code Control: `Git & Github`
+- 🛠️ Tools: `VsCode`, `Sublime Text`
+- 🌎 I am a frequent participant in the rocketseat community and linkedind learning trainings
+
+### 📱 Contacts 🌐
+
+
+- 📧 Email: juniorjose1925@gmail.com
+- 💻 Linkedin :  https://www.linkedin.com/in/jose-martinez-352032222/
+
