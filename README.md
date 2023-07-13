@@ -11,7 +11,7 @@ I am a Software Engineering student, focused on web development,and I study at [
 - 🎨 Layout Design: `Figma`
 - 📚 Version Code Control: `Git & Github`
 - 🛠️ Tools: `VsCode`, `Sublime Text`
-- 🌎 I am a frequent participant in the rocketseat community and linkedind learning trainings
+- 🌎 I am a frequent participant in the rocketseat community and LinkedInd learning trainings
 
 ### 📱 Contacts 🌐
 
