@@ -31,7 +31,7 @@
 
 ## 🌎 About Me  
 
-- 🎓 Software Engineer focused on **Web Development**  
+- 🎓 Software Engineer focused on ** Full Stack Web Development**  
 - 🔥 Active member of the **Rocketseat community** and **LinkedIn Learning**  
 - 🎯 Interested in clean code, scalable systems, and modern UI/UX design  
 
@@ -44,4 +44,4 @@
 [![GitHub](https://img.shields.io/badge/GitHub-jose2636280-black?style=for-the-badge&logo=github)](https://github.com/jose2636280)  
 
 ---
-✨ *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
+✨ *Never Stop Learning* – Isaac Asimov
