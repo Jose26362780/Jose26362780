@@ -1,7 +1,7 @@
 ### Hi there I'm Jose Martinez and I'm a web developer 👋
 
 ### About me 🧑‍💻
-I am a Software Engineering student, focused on web development,and I study at [rocketseat](https://app.rocketseat.com.br/)
+I am a Software Engineering, focused on web development,and I study at [rocketseat](https://app.rocketseat.com.br/)
 
 ### 💪🏻 Current stack 🗃️🧐 
 
