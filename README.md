@@ -8,8 +8,8 @@
 
 ## 📊 GitHub Stats  
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jose2636280&show_icons=true&theme=radical)](https://github.com/jose2636280)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jose2636280&layout=compact&theme=radical)](https://github.com/jose2636280)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jose2636280&show_icons=true&theme=radical)](https://github.com/Jose2636280)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jose2636280&layout=compact&theme=radical)](https://github.com/Jose2636280)
 
 ---
 
