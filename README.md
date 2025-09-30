@@ -3,6 +3,12 @@
 ### About me 🧑‍💻
 I am a Software Engineering, focused on web development,and I study at [rocketseat](https://app.rocketseat.com.br/)
 
+
+### Top Languages
+
+[![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Jose2636280)](https://github.com/Jose2636280)
+
+
 ### 💪🏻 Current stack 🗃️🧐 
 
 - 💡 Main language : `Javascript`
