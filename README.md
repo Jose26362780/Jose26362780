@@ -1,27 +1,47 @@
-### Hi there I'm Jose Martinez and I'm a web developer 👋
+# 👋 Hi there, I'm José Martinez  
 
-### About me 🧑‍💻
-I am a Software Engineering, focused on web development,and I study at [rocketseat](https://app.rocketseat.com.br/)
+💻 **Software Engineer | Full Stack Web Development **  
+🚀 Focused on building modern and scalable **Frontend & Backend** solutions.  
+📚 Passionate about continuous learning, problem-solving, and creating impactful projects.  
 
+---
 
-### My Stacks
+## 📊 GitHub Stats  
 
-[![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=jose2636280)](https://github.com/jose2636280)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jose2636280&show_icons=true&theme=radical)](https://github.com/jose2636280)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jose2636280&layout=compact&theme=radical)](https://github.com/jose2636280)
 
+---
 
-### 💪🏻 Current stack 🗃️🧐 
+## 🚀 Tech Stack  
 
-- 💡 Main language : `Javascript`
-- 📡 Backend: `Nodejs`
-- 👓 Frontend: `Reactjs`, `HTML5`, `CSS3`, `Javascript`
-- 🎨 Layout Design: `Figma`
-- 📚 Version Code Control: `Git & Github`
-- 🛠️ Tools: `VsCode`, `Sublime Text`
-- 🌎 I am a frequent participant in the rocketseat community and LinkedInd learning trainings
+### 👨‍💻 Languages  
+[![Languages](https://skillicons.dev/icons?i=js,ts,html,css)](https://skillicons.dev)
 
-### 📱 Contacts 🌐
+### ⚡ Frameworks & Libraries  
+[![Frameworks](https://skillicons.dev/icons?i=react,next,styledcomponents,tailwind,shadcn)](https://skillicons.dev)
 
+### 🗄️ Databases  
+[![Databases](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
 
-- 📧 Email: juniorjose1925@gmail.com
-- 💻 Linkedin :  https://www.linkedin.com/in/jose-martinez-352032222/
+### 🛠️ Tools & Others  
+[![Tools](https://skillicons.dev/icons?i=nodejs,prisma,docker,git,github,figma,vscode)](https://skillicons.dev)
 
+---
+
+## 🌎 About Me  
+
+- 🎓 Software Engineer focused on **Web Development**  
+- 🔥 Active member of the **Rocketseat community** and **LinkedIn Learning**  
+- 🎯 Interested in clean code, scalable systems, and modern UI/UX design  
+
+---
+
+## 📬 Contacts  
+
+[![Email](https://img.shields.io/badge/Email-juniorjose1925%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:juniorjose1925@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jose%20Martinez-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jose-martinez-352032222/)  
+[![GitHub](https://img.shields.io/badge/GitHub-jose2636280-black?style=for-the-badge&logo=github)](https://github.com/jose2636280)  
+
+---
+✨ *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
