@@ -4,9 +4,9 @@
 I am a Software Engineering, focused on web development,and I study at [rocketseat](https://app.rocketseat.com.br/)
 
 
-### Top Languages
+### My Stacks
 
-[![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Jose2636280)](https://github.com/Jose2636280)
+[![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=jose2636280)](https://github.com/jose2636280)
 
 
 ### 💪🏻 Current stack 🗃️🧐 
