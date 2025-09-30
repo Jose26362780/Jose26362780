@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm José Martinez  
 
-💻 **Software Engineer | Full Stack Web Development **  
+💻 *Software Engineer | Full Stack Web Development* 
 🚀 Focused on building modern and scalable **Frontend & Backend** solutions.  
 📚 Passionate about continuous learning, problem-solving, and creating impactful projects.  
 
@@ -25,7 +25,7 @@
 
 ## 🌎 About Me  
 
-- 🎓 Software Engineer focused on ** Full Stack Web Development**  
+- 🎓 Software Engineer focused on **Full Stack Web Development**  
 - 🔥 Active member of the **Rocketseat community** and **LinkedIn Learning**  
 - 🎯 Interested in clean code, scalable systems, and modern UI/UX design  
 
