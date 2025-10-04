@@ -19,9 +19,6 @@
 </div>
 
 
-
-## 🚀 Tech Stack  
-
 ### 👨‍💻 Languages  
 [![Languages](https://skillicons.dev/icons?i=js,ts,html,css)](https://skillicons.dev)
 
