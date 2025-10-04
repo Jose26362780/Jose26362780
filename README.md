@@ -10,10 +10,13 @@
 <div align="center">
 
 <a href="https://github.com/jose26362780">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jose26362780&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/jose26362780">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose26362780&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Most Used Languages" />
+</a>
+
+
+
+<a href="https://github.com/jose26362780">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jose26362780&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
 </a>
 
 </div>
