@@ -11,7 +11,7 @@
 ## 🚀 Tech Stack  
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jose26362780&show_icons=true&locale=en&layout=compact" alt="jose26362780" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jose26362780&show_icons=true&locale=en&layout=dark" alt="jose26362780" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jose26362780&show_icons=true&locale=en" alt="jose26362780" /></p>
 
@@ -34,7 +34,7 @@
 ## 🌎 About Me  
 
 - 🎓 Software Engineer focused on **Full Stack Web Development**  
-- 🔥 Active member of the **Rocketseat community** and **LinkedIn Learning**  
+- 🔥 Active member of the **Rocketseat community** and **Full Stack Club**  
 - 🎯 Interested in clean code, scalable systems, and modern UI/UX design  
 
 ---
