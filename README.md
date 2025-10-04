@@ -1,6 +1,15 @@
 # 👋 Hi there, I'm José Martinez  
 ---
 
+💻 **Software Engineer | Full Stack Web Development**  
+
+🚀 Focused on building modern and scalable **Frontend & Backend** solutions.  
+📚 Passionate about continuous learning, problem-solving, and creating impactful projects.  
+
+
+---
+---
+
 <div align="center">
 
 <a href="https://github.com/jose26362780">
@@ -12,15 +21,7 @@
 
 </div>
 
----
 
-💻 **Software Engineer | Full Stack Web Development**  
-
-🚀 Focused on building modern and scalable **Frontend & Backend** solutions.  
-📚 Passionate about continuous learning, problem-solving, and creating impactful projects.  
-
-
----
 
 ## 🚀 Tech Stack  
 
