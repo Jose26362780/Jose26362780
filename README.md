@@ -26,7 +26,7 @@
 [![Languages](https://skillicons.dev/icons?i=js,ts,html,css)](https://skillicons.dev)
 
 ### ⚡ Frameworks & Libraries  
-[![Frameworks](https://skillicons.dev/icons?i=react,next,styledcomponents,tailwind,shadcn)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=react,angular,next,styledcomponents,tailwind,shadcn)](https://skillicons.dev)
 
 ### 🗄️ Databases  
 [![Databases](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
