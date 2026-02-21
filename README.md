@@ -5,34 +5,38 @@
 🚀 Focused on building modern and scalable **Frontend & Backend** solutions.  
 📚 Passionate about continuous learning, problem-solving, and creating impactful projects.  
 
----
 
-<div align="center">
+<!-- <div align="center">
 
 <a href="https://github.com/jose26362780">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose26362780&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Most Used Languages" />
 </a>
 
-
-
 <a href="https://github.com/jose26362780">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=jose26362780&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
 </a>
 
-</div>
-
+</div> -->
 
 ### 👨‍💻 Languages  
 [![Languages](https://skillicons.dev/icons?i=js,ts,html,css)](https://skillicons.dev)
 
 ### ⚡ Frameworks & Libraries  
-[![Frameworks](https://skillicons.dev/icons?i=react,angular,next,styledcomponents,tailwind,shadcn)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=react,angular,next,styledcomponents,tailwind,bootstrap)](https://skillicons.dev)
 
 ### 🗄️ Databases  
 [![Databases](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
 
+### 🧠 Back End
+
+[![Back-End](https://skillicons.dev/icons?i=nodejs,prisma,docker)](https://skillicons.dev)
+
+### 🚀 Deploy 
+
+[![Deploy](https://skillicons.dev/icons?i=netlify,vercel)](https://skillicons.dev)
+
 ### 🛠️ Tools & Others  
-[![Tools](https://skillicons.dev/icons?i=nodejs,prisma,docker,git,github,figma,vscode)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,figma,vscode,notion)](https://skillicons.dev)
 
 
 
