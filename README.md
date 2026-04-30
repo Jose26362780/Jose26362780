@@ -6,7 +6,7 @@
 📚 Passionate about continuous learning, problem-solving, and creating impactful projects.  
 
 
-<!-- <div align="center">
+ <div align="center">
 
 <a href="https://github.com/jose26362780">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose26362780&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Most Used Languages" />
@@ -16,7 +16,7 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=jose26362780&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
 </a>
 
-</div> -->
+</div> 
 
 ### 👨‍💻 Languages  
 [![Languages](https://skillicons.dev/icons?i=js,ts,html,css)](https://skillicons.dev)
