@@ -5,18 +5,19 @@
 🚀 Focused on building modern and scalable **Frontend & Backend** solutions.  
 📚 Passionate about continuous learning, problem-solving, and creating impactful projects.  
 
-
- <div align="center">
-
-<a href="https://github.com/jose26362780">
+<!--<a href="https://github.com/jose26362780">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose26362780&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Most Used Languages" />
-</a>
+</a>  -->
+<div align="center"  style="vertical-align: top;">
 
-<a href="https://github.com/jose26362780">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jose26362780&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-</a>
 
-</div> 
+<img height="800" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose26362780&layout=pie&theme=github_dark&hide_border=true" />
+
+<img height="500"  src="https://github-readme-stats.vercel.app/api?username=jose26362780&show_icons=true&theme=github_dark&hide_border=true"/>
+
+</div>
+
+
 
 ### 👨‍💻 Languages  
 [![Languages](https://skillicons.dev/icons?i=js,ts,html,css)](https://skillicons.dev)
