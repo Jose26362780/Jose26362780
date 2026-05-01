@@ -8,13 +8,14 @@
 <!--<a href="https://github.com/jose26362780">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose26362780&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Most Used Languages" />
 </a>  -->
-<div align="center"  style="vertical-align: top;">
+<div style="display: flex; align-items: flex-start; gap: 12px; flex-wrap: nowrap; justify-content: start;">
+  <img height="400"
+       src="https://github-readme-stats.vercel.app/api?username=jose26362780&show_icons=true&theme=github_dark&hide_border=true"
+       style="flex-shrink: 0;" />
 
-
-<img height="800" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose26362780&layout=pie&theme=github_dark&hide_border=true" />
-
-<img height="500"  src="https://github-readme-stats.vercel.app/api?username=jose26362780&show_icons=true&theme=github_dark&hide_border=true"/>
-
+  <img height="400"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose26362780&layout=pie&theme=github_dark&hide_border=true"
+       style="flex-shrink: 0;" />
 </div>
 
 
