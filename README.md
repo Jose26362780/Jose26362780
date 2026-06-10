@@ -56,7 +56,7 @@
 ## 🌎 About Me  
 
 - 🎓 Software Engineer focused on **Full Stack Web Development**  
-- 🔥 Active member of the **Rocketseat community** and **Full Stack Club**  
+- 🔥 Active member of the **Rocketseat community** 
 - 🎯 Passionate about clean code, scalable systems, and modern UI/UX design  
 
 
